@@ -118,6 +118,7 @@ function draw() {
     image(img_footer, 0, 687, 393, 165);
     image(img_aiIcon, 303, 700, 80, 80);
     image(img_olisten, 0, 0, 393, 852);
+    image(img_frame, 83, 401, 227, 60);
 
   } else if (state === 2) {
     image(img_navbar, 0, 0, 393, 124);
